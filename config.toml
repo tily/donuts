@@ -3,3 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "frances"
 publishDir = "docs"
+
+[params]
+  name = "tily/donuts"
+  description = "tily's Vinyl Collection"
+  email = "tidnlyam@gmail.com"
+  author = "tily/donuts"
